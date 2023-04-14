@@ -23,4 +23,4 @@ int y2 = Coordinate("y", "B");
 int z2 = Coordinate("z", "B");
 
 Console.WriteLine("Ответ:");
-Console.WriteLine($"Длина отрезка {Math.Round(segment(x1,y1,z1,x2,y2,z2), 2)}");
+Console.WriteLine($"Длина отрезка {Math.Round(segment(x1, y1, z1, x2, y2, z2), 2)}");
